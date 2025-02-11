@@ -36,7 +36,7 @@
     "@babel/core": "^7.8.4",
     "@babel/plugin-syntax-bigint": "^7.8.3",
     "parcel": "^2.9.3",
-    "webpack": "^4.41.6",
+    "webpack": "^5.97.1",
     "webpack-cli": "^3.3.11"
   }
 }
